@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Aula6Tarde</string>
+
+    <!-- tela inicial -->
+    <string name="nome">Nome</string>
+    <string name="numero1">Número 1</string>
+    <string name="numero2">Número 2</string>
+    <string name="botao">Calcular</string>
+    <!-- alert -->
+    <string name="alert_titulo">Resultado</string>
+    <string name="alert_botao">OK</string>
+</resources>
